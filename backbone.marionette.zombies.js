@@ -27,7 +27,7 @@
   };
 
   if (!_.has(window, windowProperty)) {
-    window.zombies = zombies;
+    window[windowProperty] = zombies;
   } else {
     console.warn('window.' + windowProperty + ' property already exists, unable to provide access');
   }
