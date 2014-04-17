@@ -1,0 +1,30 @@
+{
+  "name": "backbone.marionette.zombies",
+  "main": "backbone.marionette.zombies.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/CoffeeAndCode/backbone.marionette.zombies",
+  "authors": [
+    "Jonathan Knapp <jon@coffeeandcode.com>"
+  ],
+  "description": "Hunt down the dead in your Marionette application.",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "marionette": ">=1.0.2"
+  },
+  "keywords": [
+    "backbone",
+    "marionette",
+    "performance",
+    "zombies"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
