@@ -1,7 +1,7 @@
 {
   "name": "backbone.marionette.zombies",
   "main": "backbone.marionette.zombies.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/CoffeeAndCode/backbone.marionette.zombies",
   "authors": [
     "Jonathan Knapp <jon@coffeeandcode.com>"
@@ -12,7 +12,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "marionette": ">=1.0.2"
+    "marionette": ">=2.0"
   },
   "keywords": [
     "backbone",
